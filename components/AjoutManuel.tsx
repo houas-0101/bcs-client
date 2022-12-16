@@ -9,7 +9,7 @@ export default function ReviewForm() {
 
   //ajout de nouveau produit 
   const postItems = async (name:any , nember:any ) =>{
-    if(name!=""){
+    if(name!="" && nember!=""){
         // on verifie si le produit existe déja dans le panier
         const response= await fetch("http://10.192.1.138:8000/items/name/"+name, {
           method: "GET",
@@ -49,7 +49,7 @@ export default function ReviewForm() {
         }
 
     }else{
-      alert('Le champ name est vide')
+      alert('Le champ name ou nombre est vide')
     }
   };
 
