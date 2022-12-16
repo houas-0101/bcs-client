@@ -31,5 +31,5 @@ Une API est à votre disposition pour utiliser Stripe mais vous pouvez faire vot
 
 Screen Home qui contient des boutons vers d'autre sreen qui se trouve également sur la bare de naviagtion :
 
-        ![screen Home](../bcs-client/Images/Images/../Home.jpg)
+        ![screen Home](/bcs-client/Images/Home.jpg)
 
