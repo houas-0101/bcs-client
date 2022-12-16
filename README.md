@@ -29,6 +29,6 @@ Une API est à votre disposition pour utiliser Stripe mais vous pouvez faire vot
 
 ## RÉSULTAT FINAL
 
-vous trouverez l'ensemble des images du résultat finale  dans le dossier Images
+vous trouverez l'ensemble des images du résultat final dans le dossier Images
 
 
