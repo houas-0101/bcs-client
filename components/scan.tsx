@@ -103,7 +103,7 @@ export default function  Scan ({navigation}: any) {
   if (hasPermission === null) {
     return (
       <View style={styles.container}>
-        <Text>Requesting for camera permission</Text>
+        <Text >     Requesting for camera permission</Text>
       </View>)
   }
   if (hasPermission === false) {
@@ -111,7 +111,7 @@ export default function  Scan ({navigation}: any) {
       <View style={styles.container}>
         <ScrollView>
           <View>
-            <Text style={{ marginTop:100,marginLeft: 60, marginBottom:10 }}>No access to camera</Text>
+            <Text style={{ marginTop:100,marginLeft: 85, marginBottom:10 }}>No access to camera</Text>
           </View>
           <View>         
             <Button title={'Allow Camera'} onPress={() => askForCameraPermission()} />
