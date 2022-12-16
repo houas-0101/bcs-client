@@ -1,4 +1,4 @@
-# Server
+# Client
 
 ## Travail à réaliser
 
@@ -29,7 +29,6 @@ Une API est à votre disposition pour utiliser Stripe mais vous pouvez faire vot
 
 ## RÉSULTAT FINAL
 
-Screen Home qui contient des boutons vers d'autre sreen qui se trouve également sur la bare de naviagtion :
+vous trouverez l'ensemble des images du résultat finale  dans le dossier Images
 
-        ![screen Home](/bcs-client/Images/Home.jpg)
 
